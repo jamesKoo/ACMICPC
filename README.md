@@ -1,4 +1,4 @@
-# ACMICPC()
+# ACMICPC
 Backjoon Algorithm Judge
 
 ### ID : jameskoo
