@@ -1,3 +1,6 @@
 # ACMICPC
-Backjoon Algorithm Judge
+Backjoon Algorithm Judge(https://www.acmicpc.net/)
+
+
+ID : jameskoo
 
